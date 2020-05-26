@@ -2,8 +2,7 @@
 JavaScriptで実装した○×ゲームと同様のゲームをReactで実装しました
 
 # 課題で身に着けたこと
-ライフサイクルメソッド
-
+ライフサイクルメソッド  
 propsとは？  
 stateとは？  
 children, fragment  
