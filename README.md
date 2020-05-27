@@ -1,6 +1,6 @@
-# React基礎 コンポーネントの実装
-JavaScriptで実装した○×ゲームと同様のゲームをReactで実装しました
-https://tunetune.github.io/react-tic-tac-toe/
+# React コンポーネントの実装
+JavaScriptで実装した○×ゲームと同様のゲームをReactで実装しました  
+https://tunetune.github.io/react-tic-tac-toe/  
 
 # このリポジトリで身に着けたこと
 ライフサイクルメソッド  
