@@ -13,4 +13,4 @@ yarnモジュールのインストール（styled-components)
 CSS in JS(Styled-Component)
 
 # 参照ドキュメント
-* [about](#https://ja.reactjs.org/docs/hello-world.html)
+* [React.js公式](#https://ja.reactjs.org/docs/hello-world.html)
