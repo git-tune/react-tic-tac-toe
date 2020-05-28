@@ -1,4 +1,4 @@
-# React コンポーネントの実装
+# React Tic Tac Tie
 JavaScriptで実装した○×ゲームと同様のゲームをReactで実装しました  
 https://tunetune.github.io/react-tic-tac-toe/  
 
