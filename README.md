@@ -1,8 +1,8 @@
 # React Tic Tac Tie
 JavaScriptで実装した○×ゲームと同様のゲームをReactで実装しました  
-https://tunetune.github.io/react-tic-tac-toe/  
+demo: https://git-tune.github.io/react-tic-tac-toe/
 
-# このリポジトリで身に着けたこと
+# このリポジトリで勉強したこと
 ライフサイクルメソッド  
 propsとは？  
 stateとは？  
