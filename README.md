@@ -1,5 +1,5 @@
 # React Tic Tac Tie
-JavaScriptで実装した○×ゲームと同様のゲームをReactで実装しました  
+JavaScriptで実装した○×ゲームと同様のものをReactで実装しました  
 demo: https://git-tune.github.io/react-tic-tac-toe/
 
 # このリポジトリで身につけたこと
