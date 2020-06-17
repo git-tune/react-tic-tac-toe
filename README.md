@@ -2,10 +2,10 @@
 JavaScriptで実装した○×ゲームと同様のゲームをReactで実装しました  
 demo: https://git-tune.github.io/react-tic-tac-toe/
 
-# このリポジトリで勉強したこと
+# このリポジトリで身につけたこと
 ライフサイクルメソッド  
-propsとは？  
-stateとは？  
+props
+state  
 children, fragment  
 クラスコンポーネントと関数コンポーネント  
 コンポーネントを作る時に考えること  
