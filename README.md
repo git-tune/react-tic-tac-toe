@@ -3,9 +3,8 @@ JavaScriptで実装した○×ゲームと同様のものをReactで実装しま
 demo: https://git-tune.github.io/react-tic-tac-toe/
 
 # このリポジトリで身につけたこと
-* ライフサイクルメソッド  
-* props
-* state  
+* コンポーネントと props
+* state とライフサイクル 
 * children, fragment  
 * クラスコンポーネントと関数コンポーネント  
 * コンポーネントを作る時に考えること  
